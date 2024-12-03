@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735764021781",
+    "project_id": "firstapp-3645c",
+    "storage_bucket": "firstapp-3645c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735764021781:android:b2af34d5e6c6974cc7441c",
+        "android_client_info": {
+          "package_name": "com.example.markatemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXr6lG2ZVQxVci_Ne_K7snjATk6ImCIhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "firstapp-3645c",
+          "configurations": {
+            "ios": "1:735764021781:ios:b73cbe6941241324c7441c",
+            "macos": "1:735764021781:ios:b73cbe6941241324c7441c",
+            "web": "1:735764021781:web:69d5a6d7e1d4ccdbc7441c",
+            "windows": "1:735764021781:web:df2162ae41e4fdc2c7441c"
+          }
+        }
+      }
+    }
+  }
+ 
+}
